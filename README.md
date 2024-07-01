@@ -30,6 +30,7 @@ ii. **INSTALLATION**: Download & installation;
 <img src=""alt="Accept Ts & Cs"width="100"height="100">
 - Click install button to begin the installation (it took me about a minute to install)
 <img src=""alt="Begin installation"width="100"height="100">
+<img src=""alt="Begin installation"width="100"height="100">
 - Then click finish to launch the installed VS CODE.
 <img src=""alt="Finish installation"width="100"height="100">
 <img src=""alt="VS Code launched"width="100"height="100">
@@ -41,6 +42,8 @@ ii. **INSTALLATION**: Download & installation;
     (a).SETTINGS: Navigate to "File > Preferences > Settings"
     - Adjust the font Size, Line height, and font family for better readability
     <img src=""alt="navigation to settings"width="100"height="100">
+    <img src=""alt="git bash terminal"width="100"height="100">
+
     - Enable "Autosave"
     <img src=""alt="autosave"width="100"height="100">
     - Configure preferred theme or leave it at "Default Dark (My Preference)
@@ -49,6 +52,7 @@ ii. **INSTALLATION**: Download & installation;
     (b). CONFIGURATIONS: setting up preferred integrated terminal.
     - Git Bash (my preferred terminal)
     <img src=""alt="git bash terminal"width="100"height="100">
+    
 
     (c). Extentions: The extentions I installed;
     - Prettier - Code formatter
