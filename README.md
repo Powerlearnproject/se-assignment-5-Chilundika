@@ -11,7 +11,9 @@ Answer the following questions based on your understanding of the installation a
 
 1. Installation of VS Code:
    - Describe the steps to download and install Visual Studio Code on Windows 11 operating system. Include any prerequisites that might be needed.
+
 **ANSWERS**
+
 i. **PREREQUISITES**: Laptop or computer should at least have the specs below;
 - OS Windows 11
 - Processor: 1.6 Ghz or faster
@@ -20,57 +22,63 @@ i. **PREREQUISITES**: Laptop or computer should at least have the specs below;
 - Display resolution of atleast 1024 x 768
 - .NET Framework 4.5.2 or better
 - Latest version of Git (for Git source control features)
-ii. **INSTALLATION**: Download & installation;
+- 
+ii. **INSTALLATION**:
+Download & installation;
 - Visit https://code.visualstudio.com/ (VS Code website)
 - Download the installer for windows (stable build)
-<img src=""alt="installer"width="100"height="100">
+  
+<img src="https://github.com/Powerlearnproject/se-assignment-5-Chilundika/blob/main/Screenshots/1.%20INSTALLER.png" alt="installer" width="300" height="200">
 - Run the downloaded installer
-<img src=""alt="start vs code installer"width="100"height="100">
 - accept the Terms & Conditions
-<img src=""alt="Accept Ts & Cs"width="100"height="100">
+<img src="https://github.com/Powerlearnproject/se-assignment-5-Chilundika/blob/main/Screenshots/2.%20Accept%20Ts%20%26%20Cs.png"alt="Accept Ts & Cs"width="500"height="500">
 - Click install button to begin the installation (it took me about a minute to install)
-<img src=""alt="Begin installation"width="100"height="100">
-<img src=""alt="Begin installation"width="100"height="100">
+<img src="https://github.com/Powerlearnproject/se-assignment-5-Chilundika/blob/main/Screenshots/3.%20Install.png"alt="Begin installation"width="500"height="500">
+<img src="https://github.com/Powerlearnproject/se-assignment-5-Chilundika/blob/main/Screenshots/4.%20Begin%20install.png"alt="Begin installation"width="500"height="500">
 - Then click finish to launch the installed VS CODE.
-<img src=""alt="Finish installation"width="100"height="100">
-<img src=""alt="VS Code launched"width="100"height="100">
+<img src="https://github.com/Powerlearnproject/se-assignment-5-Chilundika/blob/main/Screenshots/5.%20Finish.png"alt="Finish installation"width="500"height="500">
+<img src="https://github.com/Powerlearnproject/se-assignment-5-Chilundika/blob/main/Screenshots/6.%20Launched.png"alt="VS Code launched"width="500"height="500">
 
 2. First-time Setup:
    - After installing VS Code, what initial configurations and settings should be adjusted for an optimal coding environment? Mention any important settings or extensions.
-   **ANSWERS**
+
+    **ANSWERS**
+
    i. **Initial Configs & Settings**
     (a).SETTINGS: Navigate to "File > Preferences > Settings"
     - Adjust the font Size, Line height, and font family for better readability
-    <img src=""alt="navigation to settings"width="100"height="100">
-    <img src=""alt="git bash terminal"width="100"height="100">
+ <img src="https://github.com/Powerlearnproject/se-assignment-5-Chilundika/blob/main/Screenshots/7.%20nav%20to%20settings.png" alt="navigation to settings" width="500" height="500">
 
-    - Enable "Autosave"
-    <img src=""alt="autosave"width="100"height="100">
+ <img src="https://github.com/Powerlearnproject/se-assignment-5-Chilundika/blob/main/Screenshots/7.1.%20font.png" alt="git bash terminal" width="500" height="500">
+
+ - Enabling "Autosave"
+ <img src="https://github.com/Powerlearnproject/se-assignment-5-Chilundika/blob/main/Screenshots/8.%20autosave.png" alt="autosave" width="500" height="500">
     - Configure preferred theme or leave it at "Default Dark (My Preference)
     - Sync Settings: used to sync your preferred VS-Code settings, installations and extensions
     
-    (b). CONFIGURATIONS: setting up preferred integrated terminal.
+ (b). CONFIGURATIONS for setting up preferred integrated terminal.
     - Git Bash (my preferred terminal)
-    <img src=""alt="git bash terminal"width="100"height="100">
     
-
-    (c). Extentions: The extentions I installed;
-    - Prettier - Code formatter
-    - GitLens
-    - Live Server
-    - Path Intellisense
-    - Python
-    - Intellicode
-    - Code runner
-    - HTML CSS Support
-    - Docker
-    - Markdown All in One
-    - Remote - WSL
+  <img src="https://github.com/Powerlearnproject/se-assignment-5-Chilundika/blob/main/Screenshots/9.%20Git%20Bash%20Terminal.png" alt="git bash terminal" width="500" height="500">
+    
+ (c). Extentions: The extentions I installed;
+ - Prettier - Code formatter
+ -  GitLens
+ -  Live Server
+ -  Path Intellisense
+ -  Python
+ -  Intellicode
+ -  Code runner
+ -  HTML CSS Support
+ -  Docker
+ -  Markdown All in One
+ -  Remote - WSL
 
 
 3. User Interface Overview:
    - Explain the main components of the VS Code user interface. Identify and describe the purpose of the Activity Bar, Side Bar, Editor Group, and Status Bar.
-   **ANSWERS**
+
+    **ANSWERS**
    MAIN COMPONENTS OF VS CODE USER INTERFACE:
 
    (a). ACTIVITY BAR
@@ -112,13 +120,15 @@ ii. **INSTALLATION**: Download & installation;
    - Live Server: If you have the Live Server extension installed, it provides a button to start the server.
    - Notifications: Shows information about tasks, updates, and other notifications.
 
-4. Command Palette:
+5. Command Palette:
    - What is the Command Palette in VS Code, and how can it be accessed? Provide examples of common tasks that can be performed using the Command Palette.
-  **ANSWERS**
+
+   **ANSWERS**
   The command Palette in VS code is a powerful tool that provides quick access to various commands and functions within the editor. This allows to perform tasks without needing to navigate through menus or remember complex keyboard shortcuts.
 
   (a). Accessing the command palette: In VS Code, go to the top navigation, then view, then command palette.
-  <img src=""alt="git bash terminal"width="100"height="100">
+
+<img src="https://github.com/Powerlearnproject/se-assignment-5-Chilundika/blob/main/Screenshots/10.%20Command%20Palette.png" alt="command palette" width="500" height="500">
 
   (b). COMMON TASKS:
   
@@ -129,18 +139,15 @@ ii. **INSTALLATION**: Download & installation;
    - View and Navigation
 
 
+5. Extensions in VS Code:Discuss the role of extensions in VS Code. How can users find, install, and manage extensions? Provide examples of essential extensions for web development.
 
-5. Extensions in VS Code:
-   - Discuss the role of extensions in VS Code. How can users find, install, and manage extensions? Provide examples of essential extensions for web development.
 
 **ANSWERS**
-   Extensions in Visual Studio Code play a crucial role in enhancing the functionality and versatility of the editor by allow users to customize and extend the capabilities of VS Code to suit their development needs, providing support for additional programming languages, tools, frameworks, and utilities
+Extensions in Visual Studio Code play a crucial role in enhancing the functionality and versatility of the editor by allow users to customize and extend the capabilities of VS Code to suit their development needs, providing support for additional programming languages, tools, frameworks, and utilities
 
-(a). FINDING THE EXNTENSIONS:
-   - Access the Extensions view by clicking the Extensions icon in the Activity Bar on the side of the window. Browse the marketplace for extensions by category, popularity, or search for specific extensions using keywords.
+(a). FINDING THE EXNTENSIONS: Access the Extensions view by clicking the Extensions icon in the Activity Bar on the side of the window. Browse the marketplace for extensions by category, popularity, or search for specific extensions using keywords.
 
-(B). INSTALLATION OF EXTENSIONS:
-    
+(B). INSTALLATION OF EXTENSIONS: 
    - Search for the desired extension in the Extensions view.
    - Click the Install button next to the extension name.
    - After installation, the extension may prompt you to reload VS Code to activate it.
@@ -151,7 +158,8 @@ ii. **INSTALLATION**: Download & installation;
 
 6. Integrated Terminal:
    - Describe how to open and use the integrated terminal in VS Code. What are the advantages of using the integrated terminal compared to an external terminal?
-    **ANSWERS**
+
+     **ANSWERS**
 (a). DESCRIPTION:
 
    To open the integrated terminal in VS Code on Windows 11:
@@ -172,7 +180,8 @@ ii. **INSTALLATION**: Download & installation;
 
 7. File and Folder Management:
    - Explain how to create, open, and manage files and folders in VS Code. How can users navigate between different files and directories efficiently?
-   **ANSWERS**
+
+    **ANSWERS**
 
 (a). CREATING & OPENING FILES:
    - To create a new file in VS Code, press "Ctrl + Shift + P" to open the Command Palette, type "File: New File", and select it; the new file will be created in the currently open folder or workspace. To create a new folder, press "Ctrl + Shift + P" to open the Command Palette, type "Files: Create New Folder", and select it; you will be prompted to enter the folder name and location. To open a file, double-click the file name in the Explorer to open it in a new tab, or press "Ctrl + O" to open a file dialog and navigate to the file you want to open. To open a folder, click "File, then Open Folder" then select the folder you want to open, and it will appear in the Explorer.
@@ -210,6 +219,7 @@ ii. **INSTALLATION**: Download & installation;
 
 9. Debugging in VS Code:
    - Outline the steps to set up and start debugging a simple program in VS Code. What are some key debugging features available in VS Code?
+
 **ANSWERS**
 (a). STEPS:
    i. Open Your Project:Open the folder containing your project files in VS Code by navigating to File then Open Folder and select the project folder.
@@ -250,11 +260,10 @@ ii. **INSTALLATION**: Download & installation;
   iii. INITIALIZING A REPOSITORY:
     - In the Source Control view, click the Initialize Repository button. This will create a new .git directory in your workspace, initializing it as a Git repository.
 
-  iv. MAKING COMMITS:
-
-    - Stage Changes: In the Source Control view, you’ll see a list of changed files under the Changes section. Hover over a file and click the + icon to stage it. You can also stage all changes by clicking the + icon next to Changes. 
-    - Write a Commit Message: (Once you’ve staged your changes, write a commit message in the input box at the top of the Source Control view).
-    - Commit the Changes: Click the checkmark icon above the input box to commit the staged changes
+  iv. MAKING COMMITS: Stage Changes: 
+  - In the Source Control view, you’ll see a list of changed files under the Changes section. Hover over a file and click the + icon to stage it. You can also stage all changes by clicking the + icon next to Changes. 
+  - Write a Commit Message: (Once you’ve staged your changes, write a commit message in the input box at the top of the Source Control view).
+  - Commit the Changes: Click the checkmark icon above the input box to commit the staged changes
 
    v. Pushing Changes to GitHub
     - Add a Remote Repository: Open the terminal within VS Code (Ctrl + or Ctrl + Shift + ) and add a remote repository by running:"git remote add origin https://github.com/your-username/your-repository.git"
@@ -262,25 +271,26 @@ ii. **INSTALLATION**: Download & installation;
 
 
 
+
 **REFERENCES**:
 
-Microsoft Visual Studio Code Documentation. Available at: https://code.visualstudio.com/docs
+- Microsoft Visual Studio Code Documentation. Available at: https://code.visualstudio.com/docs
 
-Visual Studio Code - GitHub Repository. Available at: https://github.com/microsoft/vscode
+- Visual Studio Code - GitHub Repository. Available at: https://github.com/microsoft/vscode
 
-"Getting Started with Visual Studio Code" by Visual Studio Code Team. Available at: https://code.visualstudio.com/docs/getstarted/introvideos
+- "Getting Started with Visual Studio Code" by Visual Studio Code Team. Available at: https://code.visualstudio.com/docs/getstarted/introvideos
 
-"Visual Studio Code: End-to-End Editing and Debugging Tools for Web Developers" by J. Johnson. ACM, 2019. DOI: 10.1145/3289600
+- "Visual Studio Code: End-to-End Editing and Debugging Tools for Web Developers" by J. Johnson. ACM, 2019. DOI: 10.1145/3289600
 
-"Mastering Visual Studio Code" by A. Dang. Packt Publishing, 2021. ISBN: 9781803230088.
+- "Mastering Visual Studio Code" by A. Dang. Packt Publishing, 2021. ISBN: 9781803230088.
 
-"Visual Studio Code for JavaScript Developers" by S. Ward. Apress, 2020. ISBN: 9781484265184.
+- "Visual Studio Code for JavaScript Developers" by S. Ward. Apress, 2020. ISBN: 9781484265184.
 
-"Using Git with Visual Studio Code" by Visual Studio Code Team. Available at: https://code.visualstudio.com/docs/editor/versioncontrol
+- "Using Git with Visual Studio Code" by Visual Studio Code Team. Available at: https://code.visualstudio.com/docs/editor/versioncontrol
 
-"Visual Studio Code: A Comprehensive Guide" by D. Tyson. O'Reilly Media, 2022. ISBN: 9781492084054.
+- "Visual Studio Code: A Comprehensive Guide" by D. Tyson. O'Reilly Media, 2022. ISBN: 9781492084054.
 
-"Debugging in Visual Studio Code" by Visual Studio Code Team. Available at: https://code.visualstudio.com/docs/editor/debugging
+- "Debugging in Visual Studio Code" by Visual Studio Code Team. Available at: https://code.visualstudio.com/docs/editor/debugging
 
-"Introduction to Visual Studio Code" by Visual Studio Code Team. Available at: https://code.visualstudio.com/docs/getstarted/intro
+- "Introduction to Visual Studio Code" by Visual Studio Code Team. Available at: https://code.visualstudio.com/docs/getstarted/intro
 
